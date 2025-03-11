@@ -7,17 +7,14 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 * [CIB seven Organisation](https://github.com/cibseven)
 * [CIB seven Main Repository](https://github.com/cibseven/cibseven)
 
-# Current Projects
+# Current main Projects
 
 * [CIB seven External Task Client in Python](https://github.com/cibseven-community-hub/cibseven-external-task-client-python3)
-  * forked from [camunda-external-task-client-python3](https://github.com/camunda-community-hub/camunda-external-task-client-python3)
 * [CIB seven Process Test Coverage](https://github.com/cibseven-community-hub/cibseven-process-test-coverage)
-  * forked from [camunda-process-test-coverage](https://github.com/camunda-community-hub/camunda-process-test-coverage)
 
 # Next projects coming
 
 * [CIB seven Keycloak](https://github.com/cibseven-community-hub/cibseven-keycloak) (WIP)
-  * forked from [camunda-platform-7-keycloak](https://github.com/camunda-community-hub/camunda-platform-7-keycloak)
 
 # Distribution
 * [Maven Central](https://central.sonatype.com/search?q=org.cibseven.community)
