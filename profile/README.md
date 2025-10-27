@@ -11,6 +11,7 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 
 * [CIB seven External Task Client in Python](https://github.com/cibseven-community-hub/cibseven-external-task-client-python3)
 * [CIB seven Process Test Coverage](https://github.com/cibseven-community-hub/cibseven-process-test-coverage)
+* [CIB seven Mockito](https://github.com/cibseven-community-hub/cibseven-mockito)
 
 # Next projects coming
 
