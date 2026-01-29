@@ -16,7 +16,9 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 
 # Next projects coming
 
-* [CIB seven Reactor](https://github.com/cibseven-community-hub/cibseven-reactor)
+* [CIB seven Reactor](https://github.com/cibseven-community-hub/cibseven-reactor) (WIP)
+* [CIB seven REST Client Java](https://github.com/cibseven-community-hub/cibseven-rest-client-java) (WIP)
+* [Cib seven-Custom-Batch](https://github.com/cibseven-community-hub/cibseven-custom-batch) (WIP)
 
 # Distribution
 * [Maven Central](https://central.sonatype.com/search?q=org.cibseven.community)
