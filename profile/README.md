@@ -15,7 +15,7 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 
 # Next projects coming
 
-* [CIB seven Keycloak](https://github.com/cibseven-community-hub/cibseven-keycloak) (WIP)
+* [CIB seven Keycloak](https://github.com/cibseven-community-hub/cibseven-keycloak)
 
 # Distribution
 * [Maven Central](https://central.sonatype.com/search?q=org.cibseven.community)
