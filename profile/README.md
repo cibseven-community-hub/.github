@@ -14,6 +14,10 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 * [CIB seven Mockito](https://github.com/cibseven-community-hub/cibseven-mockito)
 * [CIB seven Keycloak](https://github.com/cibseven-community-hub/cibseven-keycloak)
 
+# Next projects coming
+
+* [CIB seven Reactor](https://github.com/cibseven-community-hub/cibseven-reactor)
+
 # Distribution
 * [Maven Central](https://central.sonatype.com/search?q=org.cibseven.community)
 * [CIB seven Artifactory](https://artifacts.cibseven.org/#browse/browse:public:org%2Fcibseven%2Fcommunity)
