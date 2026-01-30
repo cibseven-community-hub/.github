@@ -13,10 +13,9 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 * [CIB seven Process Test Coverage](https://github.com/cibseven-community-hub/cibseven-process-test-coverage)
 * [CIB seven Mockito](https://github.com/cibseven-community-hub/cibseven-mockito)
 * [CIB seven Keycloak](https://github.com/cibseven-community-hub/cibseven-keycloak)
+* [CIB seven Reactor](https://github.com/cibseven-community-hub/cibseven-reactor)
 
 # Next projects coming
-
-* [CIB seven Reactor](https://github.com/cibseven-community-hub/cibseven-reactor) (WIP)
 * [CIB seven REST Client Java](https://github.com/cibseven-community-hub/cibseven-rest-client-java) (WIP)
 * [Cib seven Custom Batch](https://github.com/cibseven-community-hub/cibseven-custom-batch) (WIP)
 
