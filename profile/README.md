@@ -23,11 +23,11 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
   - [CIB seven BPM JGiven](https://github.com/cibseven-community-hub/cibseven-bpm-jgiven)
   - [CIB seven BPM Data](https://github.com/cibseven-community-hub/cibseven-bpm-data)
   - [CIB seven BPM API](https://github.com/cibseven-community-hub/cibseven-bpm-api)
+- [CIB seven Platform Scenario](https://github.com/cibseven-community-hub/cibseven-platform-scenario)
 
 # Next projects coming
 
 - [CIB seven REST Client Java](https://github.com/cibseven-community-hub/cibseven-rest-client-java) (WIP, not yet released)
-- [CIB seven Platform Scenario](https://github.com/cibseven-community-hub/cibseven-platform-scenario) (WIP - forked and versioned, but not yet released to Maven Central; README's Maven Central badge currently points at the wrong artifact)
 - [CIB seven Custom Batch](https://github.com/cibseven-community-hub/cibseven-custom-batch) (WIP)
 - [CIB seven Camel Common](https://github.com/cibseven-community-hub/cibseven-camel-common) (not started - still fully on org.camunda)
 
