@@ -15,6 +15,7 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 - [CIB seven Process Instance Migrator](https://github.com/cibseven-community-hub/cibseven-process-instance-migrator) (originally by [vyermakov](https://github.com/vyermakov/cibseven-process-instance-migrator), forked here for visibility - released on Maven Central as `com.jeevision.bpm:cibseven-process-instance-migrator`)
 - [CIB seven Mail Connectors](https://github.com/cibseven-community-hub/cibseven-mail-connectors)
 - [CIB seven Community Helm Chart](https://github.com/cibseven-community-hub/cibseven-community-helm-chart)
+- [CIB seven REST Client Java](https://github.com/cibseven-community-hub/cibseven-rest-client-java)
 
 ## Testing
 
@@ -27,7 +28,6 @@ A place to fork Camunda 7 community projects to migrate them to CIB seven
 
 # Next projects coming
 
-- [CIB seven REST Client Java](https://github.com/cibseven-community-hub/cibseven-rest-client-java) (WIP, not yet released)
 - [CIB seven Custom Batch](https://github.com/cibseven-community-hub/cibseven-custom-batch) (WIP)
 - [CIB seven Camel Common](https://github.com/cibseven-community-hub/cibseven-camel-common) (not started - still fully on org.camunda)
 
